@@ -1,2 +1,2 @@
 # budget-badger
-A budget tracking app in the PWA style. App is available offline
+A budget tracking app in the PWA style. This App is under construction.
